@@ -1,0 +1,9 @@
+.message{
+	border-style: solid;
+    border-width: 1px;
+	display:inline-block;
+}
+.message .mainBody{
+	float: right;
+}
+.message img{float: left;}
